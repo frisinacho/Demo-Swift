@@ -44,6 +44,6 @@ let constant = "constant";
 var num = 4;
 var dec = 3.4;
 
-var resultado = String(dec);
+var resultado = String(num);
 
 println(resultado)

@@ -44,6 +44,6 @@ let constant = "constant";
 var num = 4;
 var dec = 3.4;
 
-var resultado = Double(num);
+var resultado = Int(dec);
 
 println(resultado)

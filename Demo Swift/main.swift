@@ -10,3 +10,7 @@ import Foundation
 
 println("Hola Mundo");
 
+// Variables
+
+var numero = 14;
+

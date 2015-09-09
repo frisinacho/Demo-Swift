@@ -26,4 +26,13 @@ decimal = 23;
 
 println(decimal);
 
+// Operators
 
+var a = 4;
+var b = 20;
+
+println(a + b)
+println(a - b)
+println(a * b)
+println(b / a)
+println(b % a)

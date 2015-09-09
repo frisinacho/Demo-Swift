@@ -36,3 +36,5 @@ println(a - b)
 println(a * b)
 println(b / a)
 println(b % a)
+
+let constant = "constant";

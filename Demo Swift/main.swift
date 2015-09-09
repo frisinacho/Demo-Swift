@@ -38,3 +38,12 @@ println(b / a)
 println(b % a)
 
 let constant = "constant";
+
+// Conversion
+
+var num = 4;
+var dec = 3.4;
+
+var resultado = Double(num);
+
+println(resultado)

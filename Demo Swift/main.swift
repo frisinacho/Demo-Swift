@@ -18,6 +18,9 @@ var string = "String content";
 var boolean = true;
 
 var entero : Int;
+var cadena : String;
+var doble : Double;
+var booleano : Bool;
 
 decimal = 23;
 

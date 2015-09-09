@@ -13,4 +13,6 @@ println("Hola Mundo");
 // Variables
 
 var numero = 14;
+var decimal = 12.34;
+
 

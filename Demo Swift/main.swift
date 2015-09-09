@@ -46,4 +46,4 @@ var dec = 3.4;
 
 var resultado = String(num);
 
-println("El resultado es \(20+6)")
+println("El resultado es \(20/6)")

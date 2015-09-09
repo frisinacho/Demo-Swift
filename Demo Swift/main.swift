@@ -17,6 +17,8 @@ var decimal = 12.34;
 var string = "String content";
 var boolean = true;
 
+var entero : Int;
+
 decimal = 23;
 
 println(decimal);

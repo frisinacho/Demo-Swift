@@ -14,5 +14,6 @@ println("Hola Mundo");
 
 var numero = 14;
 var decimal = 12.34;
+var string = "String content";
 
 

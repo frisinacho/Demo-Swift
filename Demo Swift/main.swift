@@ -17,4 +17,6 @@ var decimal = 12.34;
 var string = "String content";
 var boolean = true;
 
+println(decimal);
+
 

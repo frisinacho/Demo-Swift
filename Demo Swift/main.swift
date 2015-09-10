@@ -59,5 +59,6 @@ println(array[4]);
 var estatura = ["juan":1.76, "marcos":1.84]
 
 estatura["marcos"] = 1.89
+estatura["felipe"] = 2.09
 
-println(estatura["marcos"])
+println(estatura["felipe"])

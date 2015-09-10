@@ -53,3 +53,9 @@ println("El resultado es \(20/6)")
 var array = ["hola", 30, 12.6, "adios", [0, 1]]
 
 println(array[4]);
+
+// Diccionarios
+
+var estatura = ["juan":1.76]
+
+println(estatura)

@@ -51,3 +51,5 @@ println("El resultado es \(20/6)")
 // Arrays
 
 var array = ["hola", 30, 12.6, "adios"]
+
+println(array[3]);

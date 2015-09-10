@@ -58,4 +58,4 @@ println(array[4]);
 
 var estatura = ["juan":1.76]
 
-println(estatura)
+println(estatura["juan"])

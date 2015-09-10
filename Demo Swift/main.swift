@@ -47,3 +47,7 @@ var dec = 3.4;
 var resultado = String(num);
 
 println("El resultado es \(20/6)")
+
+// Arrays
+
+var array = ["hola", 30, 12.6, "adios"]

@@ -56,6 +56,6 @@ println(array[4]);
 
 // Diccionarios
 
-var estatura = ["juan":1.76]
+var estatura = ["juan":1.76, "marcos":1.84]
 
-println(estatura["juan"])
+println(estatura["marcos"])

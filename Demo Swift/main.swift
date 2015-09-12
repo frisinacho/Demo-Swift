@@ -68,7 +68,7 @@ println(estatura["felipe"])
 var verdadera = true
 var falsa = false
 
-if !falsa {
+if verdadera && falsa {
     println("Condición verdadera")
 }
 else {

@@ -62,3 +62,15 @@ estatura["marcos"] = 1.89
 estatura["felipe"] = 2.09
 
 println(estatura["felipe"])
+
+// If - Else
+
+var verdadera = true
+var falsa = false
+
+if verdadera {
+    println("Condición verdadera")
+}
+else {
+    println("Condición falsa")
+}

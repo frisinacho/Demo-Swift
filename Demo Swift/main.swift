@@ -10,6 +10,6 @@ import Foundation
 
 var i=0
 
-for i; i<4; i++ {
+for i=1; i<4; i++ {
     println(i)
 }

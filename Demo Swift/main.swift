@@ -8,4 +8,8 @@
 
 import Foundation
 
+var i=0
 
+for i; i<4; i++ {
+    println(i)
+}

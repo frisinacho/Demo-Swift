@@ -21,4 +21,9 @@ func mediaTotal (numeros : Double...) -> ( Double, Double) {
 }
 
 var resultado = mediaTotal(2, 4, 8, 10)
+// Whole return
 println(resultado)
+// First item in return
+println(resultado.0)
+//Second item in return
+println(resultado.1)

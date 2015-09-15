@@ -7,10 +7,3 @@
 //
 
 import Foundation
-
-var a = 0;
-
-do {
-    println("5 x \(a) =  \(5 * a)")
-    a = a+1
-}while a <= 10

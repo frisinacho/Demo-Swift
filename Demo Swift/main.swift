@@ -7,3 +7,20 @@
 //
 
 import Foundation
+
+func mediaTotal (numeros : Double...) -> Double {
+    var suma : Double = 0;
+    var cantidad : Double = 0;
+    
+    for num in numeros{
+        cantidad++
+        suma = suma + num
+    }
+    
+    var media : Double = suma/cantidad
+    return media
+}
+
+var resultado = mediaTotal(2,4)
+
+println(resultado)

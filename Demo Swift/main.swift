@@ -19,7 +19,7 @@ import Foundation
 5 - Puede dar nombre y se le puede cambiar el conjunto de sentencias.
 
 e.g.
-nombre () -> () = {
+nombre : () -> () = {
 sentencias
 }
 

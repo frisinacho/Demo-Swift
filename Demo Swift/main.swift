@@ -32,7 +32,7 @@ saludo()
 var nombre = "Juan"
 
 var saludoClosure : () -> () = {
-    println("Hola desde el Closure " + nombre)
+    println("Hola desde el Closure " + nombre + apellido) // ERROR!
     func despedida() {
         var apellido = " Pérez"
         println("Adios " + nombre + apellido)

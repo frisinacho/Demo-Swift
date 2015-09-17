@@ -18,4 +18,9 @@ import Foundation
 4 - Tienen acceso a variables de un ámbito superior.
 5 - Puede dar nombre y se le puede cambiar el conjunto de sentencias.
 
+e.g.
+nombre () -> () = {
+sentencias
+}
+
 */

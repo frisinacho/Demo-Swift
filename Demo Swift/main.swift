@@ -32,6 +32,6 @@ saludo()
 var nombre = "Juan"
 
 var saludoClosure : () -> () = {
-    println("Hola desde el Closure")
+    println("Hola desde el Closure " + nombre)
 }
 saludoClosure()

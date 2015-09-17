@@ -33,5 +33,9 @@ var nombre = "Juan"
 
 var saludoClosure : () -> () = {
     println("Hola desde el Closure " + nombre)
+    func despedida() {
+        println("Adios")
+    }
+    despedida()
 }
 saludoClosure()

@@ -7,14 +7,3 @@
 //
 
 import Foundation
-
-func potencia (base : Int, exponente : Int) -> Int {
-    if exponente == 0 {
-        return 1
-    }
-    return base * potencia(base, exponente-1)
-}
-
-var resultado = potencia(2,4)
-
-println(resultado)

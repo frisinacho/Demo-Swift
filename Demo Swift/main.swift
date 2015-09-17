@@ -7,3 +7,15 @@
 //
 
 import Foundation
+
+// Closures
+
+/*
+
+1 - Conjunto de sentencias cerradas: {}
+2 - Pueden recibir (o no) parámetros.
+3 - Pueden retornar (o no) parámetros.
+4 - Tienen acceso a variables de un ámbito superior.
+5 - Puede dar nombre y se le puede cambiar el conjunto de sentencias.
+
+*/

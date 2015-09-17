@@ -24,3 +24,9 @@ sentencias
 }
 
 */
+
+func saludo() {
+    println("Hola!")
+}
+saludo()
+var nombre = "Juan"

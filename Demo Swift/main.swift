@@ -39,4 +39,7 @@ var saludoClosure : () -> () = {
     }
     despedida()
 }
+
+saludoClosure = saludo
+
 saludoClosure()

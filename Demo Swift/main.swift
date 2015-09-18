@@ -21,3 +21,9 @@ clase{
 OBJETO = clase
 
 */
+
+class cliente {
+    var nombre = ""
+    var apellidos = ""
+    
+}

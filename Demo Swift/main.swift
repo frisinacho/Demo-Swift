@@ -26,4 +26,8 @@ class cliente {
     var nombre = ""
     var apellidos = ""
     
+    func setNombre ( datoNombre : String ) -> Void {
+        nombre = datoNombre
+    }
+    
 }

@@ -7,3 +7,17 @@
 //
 
 import Foundation
+
+// OBJETOS
+
+/*
+
+clase{
+    PROPIEDADES - variables
+
+    MÉTODOS - funciones
+}
+
+OBJETO = clase
+
+*/

@@ -36,3 +36,6 @@ class cliente {
 }
 
 var cliente1 = cliente()
+
+cliente1.setNombre("Juan")
+println(cliente1.nombre)

@@ -7,39 +7,3 @@
 //
 
 import Foundation
-
-// Closures
-
-/*
-
-1 - Conjunto de sentencias cerradas: {}
-2 - Pueden recibir (o no) parámetros.
-3 - Pueden retornar (o no) parámetros.
-4 - Tienen acceso a variables de un ámbito superior.
-5 - Puede dar nombre y se le puede cambiar el conjunto de sentencias.
-
-e.g.
-nombre : () -> () = {
-sentencias
-}
-
-*/
-
-func saludo() {
-    println("Hola!")
-}
-saludo()
-var nombre = "Juan"
-
-var saludoClosure : () -> () = {
-    println("Hola desde el Closure " + nombre)
-    func despedida() {
-        var apellido = " Pérez"
-        println("Adios " + nombre + apellido)
-    }
-    despedida()
-}
-
-saludoClosure = saludo
-
-saludoClosure()

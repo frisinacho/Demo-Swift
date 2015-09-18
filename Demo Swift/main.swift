@@ -34,3 +34,5 @@ class cliente {
         return nombre
     }
 }
+
+var cliente1 = cliente()

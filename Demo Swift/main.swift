@@ -30,4 +30,7 @@ class cliente {
         nombre = datoNombre
     }
     
+    func getNombre () -> String {
+        return nombre
+    }
 }

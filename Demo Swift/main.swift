@@ -12,6 +12,8 @@ import Foundation
 
 /*
 
+class hereda : padre {
+}
 
 */
 

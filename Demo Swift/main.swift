@@ -33,3 +33,9 @@ class cliente {
     }
 }
 
+class deudor : cliente {
+    var deuda : Double = 0
+}
+
+var deudor1 = deudor()
+println(deudor1.antiguedad)

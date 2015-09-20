@@ -8,17 +8,10 @@
 
 import Foundation
 
-// OBJETOS
+// HERENCIA
 
 /*
 
-clase{
-    PROPIEDADES - variables
-
-    MÉTODOS - funciones
-}
-
-OBJETO = clase
 
 */
 
@@ -35,8 +28,3 @@ class cliente {
     }
 }
 
-var cliente1 = cliente()
-
-cliente1.setNombre("Juan")
-cliente1.nombre = "Alberto"
-println(cliente1.getNombre())

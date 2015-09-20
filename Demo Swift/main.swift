@@ -20,6 +20,9 @@ class hereda : padre {
 class cliente {
     var nombre = ""
     var apellidos = ""
+    var antiguedad = 0
+    
+    init() { antiguedad = 1 }
     
     func setNombre ( datoNombre : String ) -> Void {
         nombre = datoNombre
